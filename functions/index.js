@@ -3,7 +3,6 @@
 const {
   dialogflow,
   SimpleResponse,
-  BasicCard,
 } = require('actions-on-google');
 const fetch =require('node-fetch');
 const functions = require('firebase-functions');
@@ -41,6 +40,8 @@ app.intent('getCrypto', (conv,{crypto="ethereum",cryptoactions="price"}={}) =>{
                          conv.data.price=data[i].percent_change_7d;
                     else if((cryptoactions == "price in btc")||(cryptoactions == "price in bitcoin")||(cryptoactions == "price btc"))
                          conv.data.price=data[i].price_btc;
+                    else 
+                         console.log(status);
                  }
                }
                conv.ask(`The ${cryptoactions} of ${crypto} is ${conv.data.price}. Would you like to know about another one?`);
