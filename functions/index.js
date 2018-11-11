@@ -3,14 +3,9 @@
 const {
   dialogflow,
   SimpleResponse,
-  Image,
-  Button,
   BasicCard,
-  Permission,
 } = require('actions-on-google');
 const fetch =require('node-fetch');
-const CoinMarketCap = require("node-coinmarketcap");
-const coinmarketcap = new CoinMarketCap();
 const functions = require('firebase-functions');
 const app = dialogflow({debug: true});
 
