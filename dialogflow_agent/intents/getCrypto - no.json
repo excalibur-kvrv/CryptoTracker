@@ -1,0 +1,40 @@
+{
+  "id": "4fd48eb6-7e77-4da3-a3b7-f0c8fcf8d121",
+  "parentId": "05c76166-51d3-41bf-9b43-1a7919f1b67e",
+  "rootParentId": "05c76166-51d3-41bf-9b43-1a7919f1b67e",
+  "name": "getCrypto - no",
+  "auto": true,
+  "contexts": [
+    "getCrypto-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "getCrypto.getCrypto-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Goodbye, hope to see you soon."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": [],
+  "endInteraction": true
+}

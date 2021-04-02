@@ -1,0 +1,9 @@
+{
+  "id": "f693f788-8a92-420c-ac63-508bf500bc2f",
+  "name": "crypto",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

@@ -1,0 +1,9 @@
+{
+  "id": "9908882a-eb0a-424b-b47d-c50ef7f85dd3",
+  "name": "cryptoactions",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

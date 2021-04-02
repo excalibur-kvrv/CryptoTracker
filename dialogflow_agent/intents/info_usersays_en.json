@@ -1,0 +1,102 @@
+[
+  {
+    "id": "c5007589-6a34-4336-b916-f00c6397682b",
+    "data": [
+      {
+        "text": "what features do you have?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bc01b62c-3946-4379-b21b-64a3478dde06",
+    "data": [
+      {
+        "text": "gas stations",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3239e6b5-fb77-4867-8eea-50152e75bf77",
+    "data": [
+      {
+        "text": "what are your functions?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "76f7e711-449b-4ed8-8813-22640f1fe9c3",
+    "data": [
+      {
+        "text": "gas stations near me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1085f0c9-326f-4d74-807f-a2c27a0f30d1",
+    "data": [
+      {
+        "text": "tell me what you ",
+        "userDefined": false
+      },
+      {
+        "text": "can",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " do?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3a9c13f6-253a-423c-ab8a-10da12434e6f",
+    "data": [
+      {
+        "text": "What can you do?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9fd753c1-6d96-4a2d-b877-ff4058008fb6",
+    "data": [
+      {
+        "text": "what tasks can you perform?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

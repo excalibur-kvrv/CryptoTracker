@@ -1,0 +1,95 @@
+[
+  {
+    "value": "available supply",
+    "synonyms": [
+      "available supply",
+      "availablesupply",
+      "circulating supply"
+    ]
+  },
+  {
+    "value": "market cap",
+    "synonyms": [
+      "market cap",
+      "marketcap"
+    ]
+  },
+  {
+    "value": "percent changed in 1h",
+    "synonyms": [
+      "percent change in 1 hour",
+      "percent change in an hour",
+      "percent changed in 1hr",
+      "percent changed in an hour",
+      "percent1hr",
+      "percentchanged1h"
+    ]
+  },
+  {
+    "value": "percent changed in 1hr",
+    "synonyms": [
+      "percent changed in 1h"
+    ]
+  },
+  {
+    "value": "percent changed in 24h",
+    "synonyms": [
+      "percent change in 24 hours",
+      "percent change in a day",
+      "percent changed in 24hr",
+      "percent changed in a day",
+      "percent day",
+      "percentchanged24h"
+    ]
+  },
+  {
+    "value": "percent changed in 24hr",
+    "synonyms": [
+      "percent changed in 24h"
+    ]
+  },
+  {
+    "value": "percent changed in 7d",
+    "synonyms": [
+      "percent 7days",
+      "percent change in 7 days",
+      "percent changed in 7 days",
+      "percentchanged7d"
+    ]
+  },
+  {
+    "value": "percent changed in 7days",
+    "synonyms": [
+      "percent changed in 7d"
+    ]
+  },
+  {
+    "value": "price",
+    "synonyms": [
+      "price",
+      "value"
+    ]
+  },
+  {
+    "value": "price in btc",
+    "synonyms": [
+      "price btc",
+      "price in bitcoin",
+      "price in btc"
+    ]
+  },
+  {
+    "value": "rank",
+    "synonyms": [
+      "rank",
+      "ranking"
+    ]
+  },
+  {
+    "value": "total supply",
+    "synonyms": [
+      "total supply",
+      "totalsupply"
+    ]
+  }
+]

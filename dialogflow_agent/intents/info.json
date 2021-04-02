@@ -1,0 +1,35 @@
+{
+  "id": "b9fbd349-0968-4995-a7f3-0304f0f4b7aa",
+  "name": "info",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "I can tell you about the Price of a cryptocurrency, Rank, Market cap, Circulating supply, Total supply, Percent Change in an hour,day and 7 days of a  Cryptocurrency. So, Which Cryptocurrency would you like to know about?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

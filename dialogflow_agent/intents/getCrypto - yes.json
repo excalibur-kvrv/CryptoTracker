@@ -1,0 +1,39 @@
+{
+  "id": "6b6710d4-9696-41fd-bf0a-7ade07aeb8cb",
+  "parentId": "05c76166-51d3-41bf-9b43-1a7919f1b67e",
+  "rootParentId": "05c76166-51d3-41bf-9b43-1a7919f1b67e",
+  "name": "getCrypto - yes",
+  "auto": true,
+  "contexts": [
+    "getCrypto-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "getCrypto.getCrypto-yes",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Which coin would you like to know about?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

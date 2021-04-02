@@ -1,0 +1,93 @@
+[
+  {
+    "id": "89928ac2-53fd-4757-80ee-4c571065d00f",
+    "data": [
+      {
+        "text": "gas stations near me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b708a253-c799-4a0f-bc8e-1f59a90a4b56",
+    "data": [
+      {
+        "text": "you tell me about food",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d0589e85-670d-4c68-b68f-e97cbea8efcd",
+    "data": [
+      {
+        "text": "time is it",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "65351d23-bf98-4a78-ae48-fef55330a832",
+    "data": [
+      {
+        "text": "name?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c5e76c41-9d6a-48db-8560-a190e8658717",
+    "data": [
+      {
+        "text": "what\u0027s you name?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4ea4d73d-110b-4f2b-9840-acfba582abb8",
+    "data": [
+      {
+        "text": "what is your name?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4f36f78f-6c45-49be-9036-f3681e1c223c",
+    "data": [
+      {
+        "text": "who are you?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

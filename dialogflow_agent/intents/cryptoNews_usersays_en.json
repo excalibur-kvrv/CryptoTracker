@@ -1,0 +1,67 @@
+[
+  {
+    "id": "7b08bbfe-4b9e-4935-9373-4b65aedeb565",
+    "data": [
+      {
+        "text": "news on cryptocurrency",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "da174ec3-76a5-4f35-aef4-8ca69e4ff6f3",
+    "data": [
+      {
+        "text": "crytpocurrency  info",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e9201f49-2cb7-4c88-aab2-899c4aa40d4d",
+    "data": [
+      {
+        "text": "cryptocurrency news",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4949e883-6993-4ef5-8316-f87b5355a009",
+    "data": [
+      {
+        "text": "give me news on cryptocurrencies",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4d7fd113-482e-4232-a084-9e6d2aeba2c3",
+    "data": [
+      {
+        "text": "tell me about some cryptocurrencies",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

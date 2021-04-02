@@ -1,0 +1,171 @@
+[
+  {
+    "id": "3f4541cb-a121-415a-8f13-24305343c62a",
+    "data": [
+      {
+        "text": "Ok Google",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bf1e2f90-a05d-4383-8ff7-c2989dbad77e",
+    "data": [
+      {
+        "text": "can you can I go back to my assistant",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "18f2885a-d84c-4c86-aa56-72da0ea14f98",
+    "data": [
+      {
+        "text": "give me my Google Assistant",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7e4188ef-7583-482d-b188-d01880c3069a",
+    "data": [
+      {
+        "text": "teri maa ka bhosda",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c2208935-f18a-4508-8de1-fa8ce0309132",
+    "data": [
+      {
+        "text": "get back to assistant",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "876ded5e-041e-46fe-95ba-f5e755dcd37f",
+    "data": [
+      {
+        "text": "exit cryptaur tracker",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "27cdbb3a-5410-433b-b914-cf2f0786f1d4",
+    "data": [
+      {
+        "text": "tata",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9e86270c-d2fe-4bae-a49a-0f47e6e93864",
+    "data": [
+      {
+        "text": "later",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a6e09a07-1743-46bf-9fee-92207d5e401c",
+    "data": [
+      {
+        "text": "see you later",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5eaa5091-c859-4142-b999-ca7b65988944",
+    "data": [
+      {
+        "text": "goodbye",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "483ce766-9e0e-455c-ae61-ac160329a37c",
+    "data": [
+      {
+        "text": "cancel",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "903b747e-b8fa-4fdc-9e5f-ff191833733d",
+    "data": [
+      {
+        "text": "bye",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "85b8f6e0-d353-4488-bdcb-3e747b2215aa",
+    "data": [
+      {
+        "text": "quit",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]
